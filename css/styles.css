@@ -9,25 +9,37 @@
     padding: inherit;
     padding-top: 2px;
     color: orange;
+    padding-left: 1%;
     background-repeat: no-repeat;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 #Africa_text {
-    background-image: url('https://static.toiimg.com/photo/69504332.cms');
+    background-image: url('https://static.toiimg.com/photo/69504332.cms');   
     width: 1080px;
     height: 1080px;
     max-width: 1080px;
     background-repeat: no-repeat;
     padding: inherit;
+    padding-left: 1%;
     padding-top: 2px;
-    color:black;    
+    color:yellow;  
+    text-rendering: geometricPrecision;
+    border: 10px;
+    text-align:left;
+    backface-visibility: visible; 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 #America_text {
-    background-image: url('http://www.kevinandamanda.com/whatsnew/wp-content/uploads/2015/01/top-of-the-rock-rockefeller-center-nyc-new-york-city-empire-state-building-skyline.jpg');
+    background-image: url('http://hijaubiru.org/wp-content/uploads/2019/01/top-5-travel-destinations-in-america-evaser3.jpg');
+    color:whitesmoke;
     width: 1080px;
-    height: 200px;
+    height: 1080px;
     max-width: 1920px;
     padding: inherit;
     padding-top: 2px;
-    color: auto;
+    padding-left: 1%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     background-repeat: no-repeat;
+    font-size: 125%;
+    image-rendering:optimizeQuality;    
 }
