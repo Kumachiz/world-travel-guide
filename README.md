@@ -17,6 +17,7 @@ _{This page is written using HTML, CSS, jquery and Javascript}_
 ## Known Bugs
 
 _{Some features might be disabled/Incomplete at the moment.}_
+_{Some images may not display due to expired or deleted urls}_
 
 ## Support and contact details
 
